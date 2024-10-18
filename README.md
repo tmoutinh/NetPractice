@@ -31,5 +31,5 @@ To get a local copy up and running, follow these simple steps:
 ## Usage
  - Detailed instructions on how to use the project can be found in the [NetPractice.pdf](https://github.com/tmoutinh/NetPractice/blob/main/NetPractice.pdf) file.
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
